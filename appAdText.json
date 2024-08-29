@@ -1,0 +1,43 @@
+{
+    "default": {
+        "appAdText": "Try Bazaar app and enjoy best discounts"
+    },
+    "locales": {
+        "ma": {
+            "appAdText": "جرب تطبيق بازار واستمتع بأفضل الخصومات"
+        },
+        "sa": {
+            "appAdText": "جرب تطبيق بازار واستمتع بأفضل الخصومات"
+        },
+        "eg": {
+            "appAdText": "جرب تطبيق بازار واستمتع بأفضل الخصومات"
+        },
+        "ae": {
+            "appAdText": "جرب تطبيق بازار واستمتع بأفضل الخصومات"
+        },
+        "kw": {
+            "appAdText": "جرب تطبيق بازار واستمتع بأفضل الخصومات"
+        },
+        "om": {
+            "appAdText": "جرب تطبيق بازار واستمتع بأفضل الخصومات"
+        },
+        "bh": {
+            "appAdText": "جرب تطبيق بازار واستمتع بأفضل الخصومات"
+        },
+        "qa": {
+            "appAdText": "جرب تطبيق بازار واستمتع بأفضل الخصومات"
+        },
+        "tn": {
+            "appAdText": "جرب تطبيق بازار واستمتع بأفضل الخصومات"
+        },
+        "dz": {
+            "appAdText": "جرب تطبيق بازار واستمتع بأفضل الخصومات"
+        },
+        "es": {
+            "appAdText": "Prueba la aplicación Bazaar y disfruta de los mejores descuentos"
+        },
+        "de": {
+            "appAdText": "Probieren Sie die Bazaar-App und genießen Sie die besten Rabatte"
+        }
+    }
+}
